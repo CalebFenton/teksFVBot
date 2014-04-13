@@ -1,0 +1,24 @@
+43A143 <- normal grass color
+3A6F29 <- dark green border color
+
+AT 1440x900: 409,450 to 1031,450
+721,301 to 721,601
+AT 1280x768: 329,384 to 951,384
+641,235 to 641,535
+
+ALWAYS:
+622 pixels wide
+12 tiles across
+~51.8 pixels divided
+using 50 pixels per tile + 22
+
+
+
+1440/409=3.5207823960880195599022004889976
+900/450=2
+1280/329=3.8905775075987841945288753799392
+768/384=2
+
+
+300 pixels tall for 12x12 farm
+25 pixels of height per tile
